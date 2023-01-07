@@ -64,6 +64,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Software Architecture with C++ - Ostrowski & Gaczkowski
 - Test Driven Development - Beck
 - The C++ Programming Language 4th - Bjarne Stroustrup
+- The Pragmatic Programmer - Hunt & Thomas
 - The Programmer's Brain - Felienne Hermans
 - The Self-taught Programmer - Cory Althoff
 - Think Like a Programmer - Anton Spraul
