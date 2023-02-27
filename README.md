@@ -62,6 +62,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Rust For Rustaceans - Jon Gjengset
 - Soft Skills - John Sonmez
 - Software Architecture with C++ - Ostrowski & Gaczkowski
+- Software Engineering at Google - Winters & Writght & Manshreck
 - Test Driven Development - Beck
 - The C++ Programming Language 4th - Bjarne Stroustrup
 - The Pragmatic Programmer - Hunt & Thomas
