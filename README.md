@@ -30,6 +30,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Building Scalable Web Sites - Cal Henderson
 - Clean Architecture - Robert Martin
 - Clean Code - Robert Martin
+- Cloud Native Go - Matthew A. Titmus
 - Computing From the Command Line - Sundeep Agarwal
 - Deep Work - Cal Newport
 - Designing Data-Intensive Applications - Martin Kleppmann
