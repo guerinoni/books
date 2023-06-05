@@ -64,8 +64,9 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Soft Skills - John Sonmez
 - Software Architecture with C++ - Ostrowski & Gaczkowski
 - Software Engineering at Google - Winters & Writght & Manshreck
-- Test Driven Development - Beck
+- Test Driven Development - Kent Beck
 - The C++ Programming Language 4th - Bjarne Stroustrup
+- The DynamoDB Book - Alex DeBrie
 - The Pragmatic Programmer - Hunt & Thomas
 - The Programmer's Brain - Felienne Hermans
 - The Self-taught Programmer - Cory Althoff
