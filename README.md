@@ -49,6 +49,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Hands-On GUI Programming with C++ and Qt5 - Lee Zhi Eng
 - Hands-On Mobile and Embedded Development with Qt5 - Lorn Potter
 - How Linux Work - Brian Ward
+- Learning GitHub Actions Automation and Integration of CICD with GitHub - Brent Laster
 - Mastering Go - Tsoykalos
 - Mastering Qt5 2nd - Lazar & Penea
 - Modern C++ Programming Cookbook - Marius Bancilia
