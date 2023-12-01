@@ -35,6 +35,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Deep Work - Cal Newport
 - Designing Data-Intensive Applications - Martin Kleppmann
 - Design Patterns - Gamma & Helm & Johnson & Vlissides
+- Docker Up Running Shipping Reliable Containers in Production, 3rd Edition - Sean Kane, Karl Matthias
 - Effective C++ 3rd - Scott Meyers
 - Effective Modern C++ - Scott Meyers
 - Effective STL - Scott Meyers
