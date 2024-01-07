@@ -27,13 +27,13 @@ I'm thinking to track also some papers I read, but not all papers because someti
 
 ## I've read (alphabetically order)
 
-- Building Scalable Web Sites - Cal Henderson
-- Clean Architecture - Robert Martin
-- Clean Code - Robert Martin
-- Cloud Native Go - Matthew A. Titmus
-- Computing From the Command Line - Sundeep Agarwal
-- Deep Work - Cal Newport
-- Designing Data-Intensive Applications - Martin Kleppmann
+- Building Scalable Web Sites - Cal Henderson (2006)
+- Clean Architecture - Robert Martin (2017)
+- Clean Code - Robert Martin (2008)
+- Cloud Native Go - Matthew A. Titmus (2021)
+- Computing From the Command Line - Sundeep Agarwal (2022)
+- Deep Work - Cal Newport (2015)
+- Designing Data-Intensive Applications - Martin Kleppmann (2017)
 - Design Patterns - Gamma & Helm & Johnson & Vlissides
 - Docker Up Running Shipping Reliable Containers in Production, 3rd Edition - Sean Kane, Karl Matthias
 - Effective C++ 3rd - Scott Meyers
