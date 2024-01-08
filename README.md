@@ -34,43 +34,43 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Computing From the Command Line - Sundeep Agarwal (2022)
 - Deep Work - Cal Newport (2015)
 - Designing Data-Intensive Applications - Martin Kleppmann (2017)
-- Design Patterns - Gamma & Helm & Johnson & Vlissides
-- Docker Up Running Shipping Reliable Containers in Production, 3rd Edition - Sean Kane, Karl Matthias
-- Effective C++ 3rd - Scott Meyers
-- Effective Modern C++ - Scott Meyers
-- Effective STL - Scott Meyers
-- Embedded Linux Development using Yocto Project Cookbook 2nd - Alex Gonzalez
-- Embedded Linux Development using Yocto Projects 2nd - Salvador & Angolini
-- Embedded Linux Systems with the Yocto Project - Rudolf Sterif
-- End to End GUI Development with Qt5 - Sherriff & Lazar & Penea & Piccolino
-- Git From the Bottom Up - Wigley
-- Go Bootcamp - Matt Aimonetti
-- Go in Action - William Kennedy
-- Hands-On Data Structures and Algorithms with Rust - Claus Matzinger
-- Hands-On GUI Programming with C++ and Qt5 - Lee Zhi Eng
-- Hands-On Mobile and Embedded Development with Qt5 - Lorn Potter
-- How Linux Work - Brian Ward
-- Learning GitHub Actions Automation and Integration of CICD with GitHub - Brent Laster
-- Mastering Go - Tsoykalos
-- Mastering Qt5 2nd - Lazar & Penea
-- Modern C++ Programming Cookbook - Marius Bancilia
-- Peopleware 3rd - DeMarco & Lister
-- Professional CMake - Craig Scott
-- Programming Principles using C++ - Bjarne Stroustrup
-- Programming Rust - Blandy & Orendorff
-- Programming Rust 2nd - Blandy & Orendorff & Tindall
-- Qt5 C++ GUI Programming Cookbook 2nd - Lee Zhi Eng
-- Qt5 Projects - Marco Piccolino
-- Refactoring - Martin Fowler
-- Rust For Rustaceans - Jon Gjengset
-- Soft Skills - John Sonmez
-- Software Architecture with C++ - Ostrowski & Gaczkowski
-- Software Engineering at Google - Winters & Writght & Manshreck
-- Test Driven Development - Kent Beck
-- The C++ Programming Language 4th - Bjarne Stroustrup
-- The DynamoDB Book - Alex DeBrie
-- The Pragmatic Programmer - Hunt & Thomas
-- The Programmer's Brain - Felienne Hermans
-- The Self-taught Programmer - Cory Althoff
-- Think Like a Programmer - Anton Spraul
-- Zero To Production In Rust - Luca Palmieri
+- Design Patterns - Gamma & Helm & Johnson & Vlissides (1994)
+- Docker Up Running Shipping Reliable Containers in Production, 3rd Edition - Sean Kane, Karl Matthias (2023)
+- Effective C++ 3rd - Scott Meyers (2008)
+- Effective Modern C++ - Scott Meyers (2015)
+- Effective STL - Scott Meyers (2001)
+- Embedded Linux Development using Yocto Project Cookbook 2nd - Alex Gonzalez (2018)
+- Embedded Linux Development using Yocto Projects 2nd - Salvador & Angolini (2017)
+- Embedded Linux Systems with the Yocto Project - Rudolf Sterif (2016)
+- End to End GUI Development with Qt5 - Sherriff & Lazar & Penea & Piccolino (2018)
+- Git From the Bottom Up - Wigley (2009)
+- Go Bootcamp - Matt Aimonetti (2016)
+- Go in Action - William Kennedy (2014)
+- Hands-On Data Structures and Algorithms with Rust - Claus Matzinger (2019)
+- Hands-On GUI Programming with C++ and Qt5 - Lee Zhi Eng (2018)
+- Hands-On Mobile and Embedded Development with Qt5 - Lorn Potter (2019)
+- How Linux Work 2nd - Brian Ward (2015)
+- Learning GitHub Actions Automation and Integration of CICD with GitHub - Brent Laster (2023)
+- Mastering Go 2nd - Tsoykalos (2019)
+- Mastering Qt5 2nd - Lazar & Penea (2018)
+- Modern C++ Programming Cookbook - Marius Bancilia (2017)
+- Peopleware 3rd - DeMarco & Lister (2013)
+- Professional CMake 4th - Craig Scott (2019)
+- Programming Principles using C++ - Bjarne Stroustrup (2009)
+- Programming Rust - Blandy & Orendorff (2018)
+- Programming Rust 2nd - Blandy & Orendorff & Tindall (2021)
+- Qt5 C++ GUI Programming Cookbook 2nd - Lee Zhi Eng (2019)
+- Qt5 Projects - Marco Piccolino (2018)
+- Refactoring 2nd - Martin Fowler (2018)
+- Rust For Rustaceans - Jon Gjengset (2022)
+- Soft Skills - John Sonmez (2015)
+- Software Architecture with C++ - Ostrowski & Gaczkowski (2021)
+- Software Engineering at Google - Winters & Writght & Manshreck (2020)
+- Test Driven Development - Kent Beck (2002)
+- The C++ Programming Language 4th - Bjarne Stroustrup (2013)
+- The DynamoDB Book - Alex DeBrie (2020)
+- The Pragmatic Programmer - Hunt & Thomas (1999)
+- The Programmer's Brain - Felienne Hermans (2021)
+- The Self-taught Programmer - Cory Althoff (2016)
+- Think Like a Programmer - Anton Spraul (2012)
+- Zero To Production In Rust - Luca Palmieri (2022)
