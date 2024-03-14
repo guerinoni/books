@@ -53,6 +53,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - How Linux Work 2nd - Brian Ward (2015)
 - Learning GitHub Actions Automation and Integration of CICD with GitHub - Brent Laster (2023)
 - Mastering Go 2nd - Tsoykalos (2019)
+- Mastering API Architecture- Gough, Bryant & Auburn (2022)
 - Mastering Qt5 2nd - Lazar & Penea (2018)
 - Modern C++ Programming Cookbook - Marius Bancilia (2017)
 - Peopleware 3rd - DeMarco & Lister (2013)
