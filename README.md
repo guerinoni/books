@@ -63,6 +63,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Programming Rust 2nd - Blandy & Orendorff & Tindall (2021)
 - Qt5 C++ GUI Programming Cookbook 2nd - Lee Zhi Eng (2019)
 - Qt5 Projects - Marco Piccolino (2018)
+- Redis in Action - Josiah Carlson (2013)
 - Refactoring 2nd - Martin Fowler (2018)
 - Rust For Rustaceans - Jon Gjengset (2022)
 - Soft Skills - John Sonmez (2015)
