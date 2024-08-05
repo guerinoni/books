@@ -66,6 +66,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Redis in Action - Josiah Carlson (2013)
 - Refactoring 2nd - Martin Fowler (2018)
 - Rust For Rustaceans - Jon Gjengset (2022)
+- System Design Interview - Alex Xu (2020)
 - Soft Skills - John Sonmez (2015)
 - Software Architecture with C++ - Ostrowski & Gaczkowski (2021)
 - Software Engineering at Google - Winters & Writght & Manshreck (2020)
