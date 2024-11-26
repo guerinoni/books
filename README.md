@@ -51,6 +51,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Hands-On GUI Programming with C++ and Qt5 - Lee Zhi Eng (2018)
 - Hands-On Mobile and Embedded Development with Qt5 - Lorn Potter (2019)
 - How Linux Work 2nd - Brian Ward (2015)
+- Kubernetes for Developers - William Denniss (2024)
 - Learning GitHub Actions Automation and Integration of CICD with GitHub - Brent Laster (2023)
 - Learning SQL 3rd - Alan Beaulieu (2020)
 - Mastering Go 2nd - Tsoykalos (2019)
