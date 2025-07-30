@@ -81,4 +81,5 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - The Self-taught Programmer - Cory Althoff (2016)
 - The Staff Engineers Path A Guide for Individual Contributors Navigating Growth and Change - Tanya Reilly (2022)
 - Think Like a Programmer - Anton Spraul (2012)
+- Tidy first? - Kent Beck (2023)
 - Zero To Production In Rust - Luca Palmieri (2022)
