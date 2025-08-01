@@ -33,6 +33,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Clean Code - Robert Martin (2008)
 - Cloud Native Go - Matthew A. Titmus (2021)
 - Computing From the Command Line - Sundeep Agarwal (2022)
+- Database Performance at Scale - Mendes, Sarna, Emelyanov, Dunion (2023)
 - Deep Work - Cal Newport (2015)
 - Designing Data-Intensive Applications - Martin Kleppmann (2017)
 - Design Patterns - Gamma & Helm & Johnson & Vlissides (1994)
