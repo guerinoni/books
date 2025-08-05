@@ -77,6 +77,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Test Driven Development - Kent Beck (2002)
 - The C++ Programming Language 4th - Bjarne Stroustrup (2013)
 - The DynamoDB Book - Alex DeBrie (2020)
+- The practice of Cloud system administration- Limoncelli & Chalup & Hogan (2015)
 - The Pragmatic Programmer - Hunt & Thomas (1999)
 - The Programmer's Brain - Felienne Hermans (2021)
 - The Self-taught Programmer - Cory Althoff (2016)
