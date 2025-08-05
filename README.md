@@ -70,6 +70,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Refactoring 2nd - Martin Fowler (2018)
 - Rust For Rustaceans - Jon Gjengset (2022)
 - Rust Web Development - Bastian Gruber (2023)
+- Shell Scripting - Robbins & Beebe (2005)
 - System Design Interview - Alex Xu (2020)
 - Soft Skills - John Sonmez (2015)
 - Software Architecture with C++ - Ostrowski & Gaczkowski (2021)
