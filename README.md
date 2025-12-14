@@ -74,6 +74,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Shell Scripting - Robbins & Beebe (2005)
 - System Design Interview - Alex Xu (2020)
 - Soft Skills - John Sonmez (2015)
+- Software Architecture: The hard part - Ford, Richards, Sadalage (2021)
 - Software Architecture with C++ - Ostrowski & Gaczkowski (2021)
 - Software Engineering at Google - Winters & Writght & Manshreck (2020)
 - Test Driven Development - Kent Beck (2002)
