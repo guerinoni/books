@@ -45,6 +45,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 - Embedded Linux Development using Yocto Projects 2nd - Salvador & Angolini (2017)
 - Embedded Linux Systems with the Yocto Project - Rudolf Sterif (2016)
 - End to End GUI Development with Qt5 - Sherriff & Lazar & Penea & Piccolino (2018)
+- Fundamentals of Software Architecture: An Engineering Approach - Richards & Ford (2020)
 - Git From the Bottom Up - Wigley (2009)
 - Go Bootcamp - Matt Aimonetti (2016)
 - Go in Action - William Kennedy (2014)
