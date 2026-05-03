@@ -28,6 +28,7 @@ I'm thinking to track also some papers I read, but not all papers because someti
 ## I've read (alphabetically order)
 
 - 100 Go Mistakes and How to Avoid Them - Teiva Harsanyi (2022)
+- AI Engineering: Building Applications with Foundation Models - Chip Huyen (2024)
 - Building Scalable Web Sites - Cal Henderson (2006)
 - Clean Architecture - Robert Martin (2017)
 - Clean Code - Robert Martin (2008)
